@@ -1,0 +1,8 @@
+BadTable
+
+A CodeIgniter Libary for building tables
+
+BadTable is a CodeIgniter library for building HTML Tables. 
+The BadTable library provides extended functionality to 
+that available with the built in CI HTML Table library.
+
